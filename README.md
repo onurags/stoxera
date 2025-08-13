@@ -115,5 +115,6 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 ## 📧 Contact
 
 For any inquiries or support, please contact:
-- **Email**: support@stoxera.com
+- **Email**: anuragganvir2019@gmail.com
 - **GitHub**: [ryuzaki-ved](https://github.com/ryuzaki-ved)
+- **GitHub**: [anuragganvir](https://github.com/onurags)
